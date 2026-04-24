@@ -13,7 +13,7 @@
 	<parameter name="os" value="Windows"/>
 	<parameter name="browser" value="edge"/>
     <classes>
-      <class name="testCases.TC001_AccountRegistarionTest"/>
+      <!--class name="testCases.TC001_AccountRegistarionTest"/>-->
     </classes>
   </test> <!-- Test -->
   

@@ -1,3 +1,4 @@
+testCases\NewclassGit.class
 pageObjects\MyAccountPage.class
 utilities\ExcelUtility.class
 testBase\BaseClass.class

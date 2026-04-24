@@ -1204,3 +1204,11 @@
 10:03:33.963 [main] INFO  testCases.TC001_AccountRegistarionTest.verify_account_registration(TC001_AccountRegistarionTest.java:44)oggger - **** This is Finished TC001_AccountRegistarionTest****
 10:03:36.112 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:20)oggger - *****  Starting TC_002_LoginTest *****
 10:03:38.077 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:43)oggger - ***** Finished TC_002_LoginTest
+17:33:52.929 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\ASUS\Downloads\Opencart121\master.xml"
+17:33:58.537 [main] INFO  testCases.TC001_AccountRegistarionTest.verify_account_registration(TC001_AccountRegistarionTest.java:16)oggger - **** Starting TC001_AccountRegistarionTest *****
+17:33:59.001 [main] INFO  testCases.TC001_AccountRegistarionTest.verify_account_registration(TC001_AccountRegistarionTest.java:21)oggger - Clicked on MyAccount Link
+17:34:00.219 [main] INFO  testCases.TC001_AccountRegistarionTest.verify_account_registration(TC001_AccountRegistarionTest.java:23)oggger - Clicked on Register Link
+17:34:03.344 [main] INFO  testCases.TC001_AccountRegistarionTest.verify_account_registration(TC001_AccountRegistarionTest.java:34)oggger - Validating expected message
+17:34:03.425 [main] INFO  testCases.TC001_AccountRegistarionTest.verify_account_registration(TC001_AccountRegistarionTest.java:44)oggger - **** This is Finished TC001_AccountRegistarionTest****
+17:34:07.100 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:20)oggger - *****  Starting TC_002_LoginTest *****
+17:34:09.442 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:43)oggger - ***** Finished TC_002_LoginTest
